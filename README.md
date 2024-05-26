@@ -32,7 +32,6 @@
     <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white"/>
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-    <img src="https://img.shields.io/badge/DB%20Visualizer-%230097B7.svg?style=for-the-badge&logo=dbvisualizer&logoColor=white"/>
     <a href="https://www.notion.so"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
   </div>
 </div>

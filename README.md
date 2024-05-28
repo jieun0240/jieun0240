@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Jieun’s%20GitHub&fontSize=50&animation=fadeIn"/>
 </div>
 
+[![Github](https://www.codenary.co.kr/widget/github/api?username=나지은)](https://www.codenary.co.kr/user-profile/detail/나지은?github_ride=true&utm_source=github)
+
 <div align="center">
   <h2>👁️ Info 👁️</h2>
   <div>

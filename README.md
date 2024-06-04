@@ -7,7 +7,7 @@
 <div align="center">
   <h2>👁️ Info 👁️</h2>
   <div>
-    <a href="https://www.instagram.com/your_instagram_username/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.instagram.com/xieunnny/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="mailto:w2303@e-mirim.hs.kr"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://github.com/jieun0240"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   </div>

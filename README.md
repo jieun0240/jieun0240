@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Jieun’s%20GitHub&fontSize=50&animation=fadeIn"/>
-</div>
-
 [![Github](https://www.codenary.co.kr/widget/github/api?username=나지은)](https://www.codenary.co.kr/user-profile/detail/나지은?github_ride=true&utm_source=github)
 
 <div align="center">
@@ -36,8 +32,4 @@
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
     <a href="https://www.notion.so"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
   </div>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=footer&animation=fadeIn"/>
 </div>

@@ -1,5 +1,3 @@
-[![Github](https://www.codenary.co.kr/widget/github/api?username=나지은)](https://www.codenary.co.kr/user-profile/detail/나지은?github_ride=true&utm_source=github)
-
 <div align="center">
   <h2>👁️ Info 👁️</h2>
   <div>

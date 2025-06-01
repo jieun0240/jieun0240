@@ -7,19 +7,6 @@
 
 ---
 
-## 🧠 Tech Stack
-
-- **Main**: JavaScript, React  
-- **Learning**: UI/UX 기반 컴포넌트 개발과 상태 관리
-
----
-
-## 🛠 Tools I Use
-
-- Git · VS Code · Notion
-
----
-
 ## 📫 Contact
 
 - 📧 w2303@e-mirim.hs.kr  

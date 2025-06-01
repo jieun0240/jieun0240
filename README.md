@@ -1,15 +1,20 @@
 <div align="center">
 
-# 👋 Hi
-**끊임없이 돌아보고 개선해 나가는 개발자 나지은 입니다.**
+# ✨ About Me
+**끊임없이 돌아보고 개선해 나가는 개발자 나지은입니다.**
 
 </div>
 
 ---
 
-## 📫 Contact
+## 🛠 Tech & Tools
+JavaScript · React  
+Git · VS Code · Notion
 
-- 📧 w2303@e-mirim.hs.kr  
-- 💻 [GitHub](https://github.com/jieun0240)
+---
+
+## 📫 Contact
+📧 w2303@e-mirim.hs.kr  
+💻 [GitHub](https://github.com/jieun0240)
 
 ---

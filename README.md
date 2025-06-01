@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Jieun. (Yes — me, jieun. Like… 나지은 🙃)
+# 👋 Hi
 **끊임없이 돌아보고 개선해 나가는 개발자 나지은 입니다.**
 
 </div>
